@@ -1,0 +1,4 @@
+poloniex
+websocket-client
+requests
+flask
